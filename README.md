@@ -1,9 +1,14 @@
+# This is a large header
 Tour and Travel Website
 
+## This is a slightly smaller header
 This project is a Tour and Travel Website developed using React.js. The website is designed to provide a seamless and user-friendly interface for users looking to explore travel destinations, book tours, and get detailed information about various travel packages.
 
+### This is an even smaller header
+**This text is bold**
 Features:
 
+#### This is a smaller header
 Dynamic Navigation: Smooth and responsive navigation bar to explore different sections of the website.
 
 Responsive Design: Fully responsive design ensures the website looks great on all devices, from desktops to mobile phones.
@@ -28,18 +33,23 @@ Installation
 
 To run this project locally, follow these steps:
 
+**This text is bold**
 Clone the repository:
 
 git clone https://github.com/ansari-katib/Frontend-Web-React-Project.git
 
+**This text is bold**
 Navigate to the project directory:
 cd tour-and-travel-website
 
+**This text is bold**
 Install the dependencies:
 npm install
 
+**This text is bold**
 Start the development server:
 
 npm run dev
 
+**This text is bold**
 Open your browser and visit http://localhost:3000 to view the website.
