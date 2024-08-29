@@ -1,0 +1,20 @@
+.about-contain{
+    margin:  4rem 6rem;
+    text-align: start;
+}
+.about-contain h1 {
+    padding-bottom: 1rem;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.about-contain p{
+    padding-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width:850px) {
+    .about-contain{
+        margin: 4rem 2rem;
+    }
+    
+}
