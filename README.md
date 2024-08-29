@@ -29,7 +29,6 @@
 
 ## To run this project locally, follow these steps:
 
-**This text is bold**
 ### Clone the repository:
 
 #### git clone https://github.com/ansari-katib/Frontend-Web-React-Project.git
