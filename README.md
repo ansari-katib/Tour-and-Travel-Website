@@ -36,14 +36,11 @@
 ## **Navigate to the project directory:**
 ### cd tour-and-travel-website
 
-## **This text is bold**
 ### Install the dependencies:
 ### npm install
 
-**This text is bold**
 ### Start the development server:
 
 ### npm run dev
 
-## **This text is bold**
 ### Open your browser and visit http://localhost:3000 to view the website.
