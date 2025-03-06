@@ -1,9 +1,11 @@
 import React from 'react'
 import Navebar from '../components/Navebar';
 import Hero from '../components/Hero';
-import ServiceImg from "../assets/Servicesimg.jpg";
+// import ServiceImg from "../assets/Servicesimg.jpg";
+import food_img from "../assets/food.jpg" 
 import Footer from '../components/Footer';
-import Trip from '../components/Trip'
+// import Trip from '../components/Trip'
+import Food from '../components/Food';
 
 function Service() {
   return (
@@ -13,12 +15,13 @@ function Service() {
     <Navebar />
       <Hero
         cName="hero"
-        HeroImg={ServiceImg}
-        title="Service page"
-        text="Travelling services"
+        HeroImg={food_img}
+        title="Indian Food"
+        text="Indian famous Food"
         url="/services"
       />
-      <Trip />
+      {/* <Trip /> */}
+      <Food />
       <Footer />
     </>
   )

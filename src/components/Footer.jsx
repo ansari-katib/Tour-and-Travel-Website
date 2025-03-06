@@ -14,54 +14,54 @@ function Footer() {
 
                     <div>
                         <Link to={"/"}>
-                            <i class="ri-facebook-box-fill"></i>
+                            <i className="ri-facebook-box-fill"></i>
                         </Link>
                         <Link to={"/"}>
                             <i className="ri-twitter-x-fill"></i>
                         </Link>
                         <Link to={"/"}>
-                            <i class="ri-linkedin-box-fill"></i>
+                            <i className="ri-linkedin-box-fill"></i>
                         </Link>
                         <Link to={"/"}>
-                            <i class="ri-github-fill"></i>
+                            <i className="ri-github-fill"></i>
                         </Link>
                     </div>
                 </div>
 
                 <div className="bottom">
                     <div>
-                        <h4>projects</h4>
-                        <Link to={"/"}>changelog</Link>
-                        <Link to={"/"}>startup</Link>
-                        <Link to={"/"}>licence</Link>
-                        <Link to={"/"}>all verion</Link>
+                        <h4>Destinations</h4>
+                        <Link to={"/"}>Kashmir</Link>
+                        <Link to={"/"}>Manali</Link>
+                        <Link to={"/"}>Assam</Link>
+                        <Link to={"/"}>Rajasthan</Link>
                     </div>
                     <div>
-                        <h4>projects</h4>
-                        <Link to={"/"}>changelog</Link>
-                        <Link to={"/"}>startup</Link>
-                        <Link to={"/"}>licence</Link>
-                        <Link to={"/"}>all verion</Link>
+                        <h4>Company Info</h4>
+                        <Link to={"/about"}>About Us</Link>
+                        <Link to={"/contact"}>Contact</Link>
+                        <Link to={"/"}>Careers</Link>
+                        <Link to={"/"}>Privacy Policy</Link>
                     </div>
                     <div>
-                        <h4>projects</h4>
-                        <Link to={"/"}>changelog</Link>
-                        <Link to={"/"}>startup</Link>
-                        <Link to={"/"}>licence</Link>
-                        <Link to={"/"}>all verion</Link>
+                        <h4>Customer Service</h4>
+                        <Link to={"/"}>Help Center</Link>
+                        <Link to={"/"}>FAQ</Link>
+                        <Link to={"/"}>Booking</Link>
+                        <Link to={"/"}>Terms & Conditions</Link>
                     </div>
                     <div>
-                        <h4>projects</h4>
-                        <Link to={"/"}>changelog</Link>
-                        <Link to={"/"}>startup</Link>
-                        <Link to={"/"}>licence</Link>
-                        <Link to={"/"}>all verion</Link>
+                        <h4>Follow Us</h4>
+                        <Link to={"/"}>Instagram</Link>
+                        <Link to={"/"}>Twitter</Link>
+                        <Link to={"/"}>Facebook</Link>
+                        <Link to={"/"}>LinkedIn</Link>
                     </div>
                 </div>
                 <div className="copy-right">
-                 <p>
-                     Copyright &copy; 2024, Travel All Rights Reserved.
-                 </p>
+                    <p>
+                        Copyright &copy; 2024, Travel All Rights Reserved.
+                    </p>
                 </div>
             </div>
         </>

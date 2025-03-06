@@ -4,8 +4,6 @@ import { MenuItems } from './MenuItems';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 
-
-
 function Navebar() {
   const [clicked, setClicked] = useState(false);
   const handleClick = () => {

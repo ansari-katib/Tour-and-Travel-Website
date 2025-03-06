@@ -3,7 +3,8 @@ import Navebar from '../components/Navebar'
 import Hero from '../components/Hero'
 import AboutImg from "../assets/Aboutimg.jpg";
 import Footer from '../components/Footer';
-import AboutUs from '../components/AboutUs'
+// import AboutUs from '../components/AboutUs'
+import Detail from '../components/Detail';
 
 function About() {
   return (
@@ -13,10 +14,11 @@ function About() {
         cName="hero"
         HeroImg={AboutImg}
         title="About Page"
-        text="Know more About us"
-        url="/"
+        text="Know more About me"
+        url="/about"
       />
-      <AboutUs />
+      {/* <AboutUs /> */}
+      <Detail />
       <Footer />
     </>
   )

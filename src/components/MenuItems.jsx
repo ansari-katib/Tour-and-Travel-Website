@@ -6,13 +6,13 @@ export const MenuItems = [
         icon : "ri-home-smile-line"
     },
     {
-        title : "About",
+        title : "About me",
         url : "/about",
         cName : "nav-link",
         icon : "ri-creative-commons-by-line"
     },
     {
-        title : "Service",
+        title : "Food",
         url : "/service",
         cName : "nav-link",
         icon : "ri-briefcase-4-fill"

@@ -1,7 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import Navebar from './components/Navebar'
-
 import Home from './routes/Home'
 import About from './routes/About'
 import Contact from './routes/Contact'
@@ -16,7 +14,7 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path='/' element={<Home />} />
+      <Route path='/' element={<Home /> } />
       <Route path='/about' element={<About />} />
       <Route path='/contact' element={<Contact />} />
       <Route path='/service' element={<Service />} />

@@ -1,8 +1,6 @@
 import React from "react";
 import "../components/Destination.css";
 
-
-
 function DestinationData(props) {
     return (
         <>
